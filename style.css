@@ -16,8 +16,6 @@
 body {
   font-family: "Outfit", sans-serif;
   font-size: 15px;
-  /* font-weight: 400; */
-  /* font-style: normal; */
   background-color: var(--Slate-300);
   width: 100vw;
   height: 100vh;
@@ -51,8 +49,10 @@ body {
     font-weight: 700;
     color: var(--Slate-900);
     margin-bottom: 20px;
+    /* font-size: 15px; */
 }
 .content p{
     font-weight: 400;
     color: var(--Slate-500);
+    font-size: 15px;
 }
