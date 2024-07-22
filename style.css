@@ -56,3 +56,8 @@ body {
     color: var(--Slate-500);
     font-size: 15px;
 }
+
+#author {
+    margin-top: 50px;
+    text-align: center;
+}
